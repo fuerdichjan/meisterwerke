@@ -7,7 +7,8 @@ Hier eine Auflistung ausgewählter Meisterwerke.
 ](Meisterwerk1.pdf)
 
 ### Meisterwerk #2
-Jan Henrik Ziegeldorf, Jan Pennekamp, David Hellmanns, Felix Schwinger, Ike Kunze, Martin Henze, Jens Hiller, Roman Matzutt, and Klaus Wehrle. BLOOM: BLoom filter based Oblivious Outsourced Matchings. BMC Medical Genomics, 10(Suppl 2), 07 2017. Proceedings of the 5th iDASH Privacy and Security Workshop 2016.
+[Jan Henrik Ziegeldorf, Jan Pennekamp, David Hellmanns, Felix Schwinger, Ike Kunze, Martin Henze, Jens Hiller, Roman Matzutt, and Klaus Wehrle. BLOOM: BLoom filter based Oblivious Outsourced Matchings. BMC Medical Genomics, 10(Suppl 2), 07 2017. Proceedings of the 5th iDASH Privacy and Security Workshop 2016.
+](Meisterwerk2.pdf)
 
 ### Impressum
 [Link zum Impressum](IMPRESSUM.MD)
