@@ -7,4 +7,4 @@ Hier eine Auflistung ausgewählter Meisterwerke.
 ### Meisterwerk #2
 
 ### Impressum
-[Link zum Impressum](IMPRESSUM.md)
+[Link zum Impressum](IMPRESSUM.MD)
