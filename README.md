@@ -7,3 +7,4 @@ Hier eine Auflistung ausgewählter Meisterwerke.
 ### Meisterwerk #2
 
 ### Impressum
+[a relative link](other_file.md)
