@@ -1,4 +1,4 @@
 ## Impressum
 Stefan Braun
 
-Kontaktaufnahme: peddler.monitor@gmail.com
+Kontaktaufnahme: stefan(dot)braun(at)rwth-aachen(dot).de
